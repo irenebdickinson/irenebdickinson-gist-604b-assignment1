@@ -18,7 +18,7 @@ def main():
 
     # Add your own message here!
     print("GIS is a cool way to visualize data")
-    print('Updated in Codespaces')
+    print('Updated in Codesaces')
 
 if __name__ == "__main__":
     main()
